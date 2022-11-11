@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JeJAXo1Y7Xb88kM7ZXzXcxkkQAI7noucsWVE+kTYPLW2W43VCya5Eex9cmDYB4zz5fKCTYuVg1dYuFOD1MR+8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Intern 38\\Documents\\LearningC#\\weatherapi\\weatherapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intern 38\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "C:\\Users\\Intern 38\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Intern 38\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Intern 38\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Intern 38\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Intern 38\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Intern 38\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
